@@ -10,6 +10,7 @@ To simplify the process of contribution to this repository, please create an iss
 ## Vertex AI Examples
  - [Apigee with Vertex AI] (https://github.com/northam-stp-team/vertexai-apigee) - Multi-tenant ML APIs using Apigee and Vertex AI
  - [Distributed PyTorch on Vertex Pipelines] (https://github.com/jy2k/Kubeflow-v2-distributed-pytorch) - This notebook shows how to go from exploratory data analysis to a working Vertex AI pipeline running PyTorch distributed training
+ - [GCP Translation Workflow] (https://github.com/entrpn/gcp-translate-workflow) - Create a translation workflow for documents using Cloud Run, Cloud Functions, Cloud Triggers and the Translation API.
 
 
 ## Getting help
