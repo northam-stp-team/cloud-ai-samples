@@ -4,6 +4,9 @@
 
 This repository is a collection of various examples and notebooks from internal and external sources. The table of contents will show a list of examples to make them easier to find
 
+## Contributing
+
+
 ## Repository structure
 
 ```bash
@@ -16,11 +19,15 @@ This repository is a collection of various examples and notebooks from internal 
 │   │   ├── ...
 ```
 
-Tools
+## Vertex AI
+
+
 Amazing GitHub Template - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 Common Readme - A common readme style for Node. Includes a guide and a readme generator.
 Feedmereadmes - README editing and project analysis/feedback.
 GitHub Readme Stats - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+
+## Apigee
 
 ## Contributing
 
