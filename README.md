@@ -7,7 +7,7 @@ This repository is a collection of various examples and notebooks from internal 
 ## Contributing
 To simplify the process of contribution to this repository, please create an issue, provide the title, description , and link to your example and one of the repo admins will update this readme
 
-## Vertex AI Examplees
+## Vertex AI Examples
  - [Apigee with Vertex AI] (https://github.com/northam-stp-team/vertexai-apigee) - Multi-tenant ML APIs using Apigee and Vertex AI
  - [Distributed PyTorch on Vertex Pipelines] (https://github.com/jy2k/Kubeflow-v2-distributed-pytorch) - This notebook shows how to go from exploratory data analysis to a working Vertex AI pipeline running PyTorch distributed training
 
