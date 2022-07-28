@@ -5,7 +5,14 @@
 This repository is a collection of various examples and notebooks from internal and external sources. The table of contents will show a list of examples to make them easier to find
 
 ## Contributing
-To simplify the process of contribution to this repository, please create an issue, provide the title, description , and link to your example and one of the repo admins will update this readme
+To simplify the process of contribution to this repository please follow these REQUIRED steps:
+ - Make sure the code works end to end
+ - A customer/internal partner has used the code succesfully
+ - Please create an issue, provide the title, description , and link to your example and one of the repo admins will update this readme
+
+And these recommended steps:
+ - Have someone code review and execute your code example
+ - Run your code through a lint program
 
 ## Vertex AI Examples
  - [Apigee with Vertex AI] (https://github.com/northam-stp-team/vertexai-apigee) - Multi-tenant ML APIs using Apigee and Vertex AI
