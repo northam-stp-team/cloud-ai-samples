@@ -20,6 +20,7 @@ And these recommended steps:
  - [GCP Translation Workflow](https://github.com/entrpn/gcp-translate-workflow) - Create a translation workflow for documents using Cloud Run, Cloud Functions, Cloud Triggers and the Translation API.
  - [Building Reusable Kfp Library](https://github.com/entrpn/entrpn-kfx) - Create a library with modular Kubeflow components that can be re-used by multiple teams across an organization.
  - [Matching Engine Demo](https://github.com/entrpn/matching-engine-demo) - Create a vector similarity search with Vertex AI Matching Engine.
+ - [Text to Image Generation with Vertex AI Endpoints](https://github.com/entrpn/serving-diffusion) - Deploy a stable diffusion model in Vertex AI endpoints for text to image and image to image generation.
 
 
 ## Getting help
