@@ -21,6 +21,7 @@ And these recommended steps:
  - [Building Reusable Kfp Library](https://github.com/entrpn/entrpn-kfx) - Create a library with modular Kubeflow components that can be re-used by multiple teams across an organization.
  - [Matching Engine Demo](https://github.com/entrpn/matching-engine-demo) - Create a vector similarity search with Vertex AI Matching Engine.
  - [Text to Image Generation with Vertex AI Endpoints](https://github.com/entrpn/serving-diffusion) - Deploy a stable diffusion model in Vertex AI endpoints for text to image and image to image generation.
+ - [Vision AI demo to search web entities](https://github.com/entrpn/gcp-detect-web-similar-images-vision-api) - Demo of using the Vision AI API to locate similar images in the web.
 
 
 ## Getting help
